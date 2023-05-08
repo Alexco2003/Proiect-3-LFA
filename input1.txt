@@ -1,0 +1,24 @@
+7
+a b
+0
+2 6
+0 a 0
+0 a 1
+0 lambda 3
+0 b 2
+0 lambda 2
+1 lambda 2
+2 lambda 4
+2 a 3
+3 b 3
+3 lambda 5
+3 a 6
+3 b 6
+4 b 5
+4 a 6
+4 lambda 6
+5 b 2
+5 lambda 2
+5 lambda 6
+5 a 6
+6 b 6
