@@ -1,2 +1,2 @@
-# Proiect-3-LFA
+# Proiect 3 LFA -> NFA-LAMBDA to DFA
 NFA-LAMBDA to DFA
