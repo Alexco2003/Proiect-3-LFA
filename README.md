@@ -42,10 +42,10 @@ a b\
 
 The output file will have the following layout :
 
-n (total number of states)
-sigma (alphabet)
-initial state
-list of all the final states
+n (total number of states)\
+sigma (alphabet)\
+initial state\
+list of all the final states\
 state symbol next_state (this represents the delta function, from state with symbol we get to next_state)
 
 Example of output :
