@@ -1,7 +1,7 @@
 # Proiect 3 LFA -> NFA-LAMBDA to DFA
 NFA-LAMBDA to DFA
 
-Implemented a Python algorithm that gets as input a NFA-LAMBDA and transform it into a DFA
+Implemented a Python algorithm that gets as input a NFA-LAMBDA and transform it into a DFA.
 
 The NFA-LAMBDA input file needs to have the following layout :
 
