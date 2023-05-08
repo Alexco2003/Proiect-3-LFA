@@ -38,7 +38,7 @@ a b\
 5 lambda 2\
 5 lambda 6\
 5 a 6\
-6 b 6\
+6 b 6
 
 The output file will have the following layout :
 
@@ -59,4 +59,4 @@ a b\
 0123456 a 0123456\
 0123456 b 23456\
 23456 a 23456\
-23456 b 23456\
+23456 b 23456
